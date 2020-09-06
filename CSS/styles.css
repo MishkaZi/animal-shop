@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background-color: #AED8E6;
+  }
+
+a{
+    color: #26629D;
+    padding: 25px;
+}
+
+p{
+    text-align: center;
+}
+
+
+footer{
+    text-align: center;
+    padding: 40px;
+}
+
+#mainPageImg{
+    width: 380px;
+    height: 260px;
+}
+
+img{
+    width: 150;
+    height: 150px;
+}
+
+table{
+    text-align: left;
+    padding: 40px;
+}
+
+h1{
+    font-size: 40px;
+
+}
+
+h2{
+    font-size: 20px;
+}
