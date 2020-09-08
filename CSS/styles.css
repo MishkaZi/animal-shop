@@ -1,20 +1,23 @@
 body {
-    text-align: center;
+    text-align: center; 
     background-color: #AED8E6;
+    font-family: sans-serif;
+    color: brown;
+    font-size: larger;
+    background-image: url("../images/wallpaper-widescreen-web-nature-inspired-zixpk-best-93423.jpg");
+    background-size: cover;
   }
 
 a{
-    color: #26629D;
+    color: tomato;
     padding: 25px;
 }
-
-p{
-    text-align: center;
+a:hover{
+    color: cyan;
 }
 
-
 footer{
-    text-align: center;
+    /* text-align: center; */
     padding: 40px;
 }
 
@@ -35,9 +38,28 @@ table{
 
 h1{
     font-size: 40px;
-
+    font-family: fantasy;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
 }
 
 h2{
     font-size: 20px;
+}
+
+textarea,input{
+    background-color: yellow;
+}
+
+.pets{
+    background-image: url("../images/nature-wallpaper-77479.jpg");
+}
+
+.contacts{
+    background-image: url("../images/Free-Nature-Backgrounds-Seaport-During-Daytime-by-Pexels.jpeg");
+    background-size: cover;
+}
+.save{
+    background-image: url("../images/f8PKEV.jpg");
+    background-size: cover;
 }
